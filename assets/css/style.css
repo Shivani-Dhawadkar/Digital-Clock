@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+    height: 100vh;
+    color: gold;
+    <style> @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap'); </style>
+}
+.digitalclock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 20px gold;
+}
